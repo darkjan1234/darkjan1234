@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning**
 
-- 👨‍💻 All of my projects are available at [secret](secret)
+- 👨‍💻 All of my projects are available at [secret](secret).
 
 - 📝 I regularly write articles on [messageme](messageme)
 
