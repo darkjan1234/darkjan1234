@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [secret](secret).
 
-- 📝 I regularly write articles on [messageme](messageme)
+- 📝 I regularly write  articles on [messageme](messageme)
   
 - 💬 Ask me about **react,flutter,javascript. ,python,java,c++,lua,mojo ,dart,ts,php,laravel,nodejs**
 
